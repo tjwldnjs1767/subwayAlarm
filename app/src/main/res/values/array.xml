@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarmMethod">
+        <item>진동</item>
+        <item>진동 + 이어폰시 벨소리</item>
+        <item>벨소리</item>
+    </string-array>
+    <string-array name="alarmMethodValues">
+    <item>1</item>
+    <item>0</item>
+    <item>-1</item>
+    </string-array>
+    <string-array name="alarmCondition">
+        <item>도착 1정류장 전</item>
+        <item>도착 2정류장 전</item>
+        <item>도착 3정류장 전</item>
+        <item>도착 5정류장 전</item>
+    </string-array>
+    <string-array name="alarmConditionValues">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+</resources>

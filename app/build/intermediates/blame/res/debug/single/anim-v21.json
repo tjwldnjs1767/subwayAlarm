@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\SubwayAlarm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\dsm2015\\.android\\build-cache\\53d1bc37144e810b417b07ab624f33607b2c979b\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\android\\SubwayAlarm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\dsm2015\\.android\\build-cache\\618fc9bdc473d33459758ac0e452122b2bd39c48\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\android\\SubwayAlarm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\dsm2015\\.android\\build-cache\\618fc9bdc473d33459758ac0e452122b2bd39c48\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

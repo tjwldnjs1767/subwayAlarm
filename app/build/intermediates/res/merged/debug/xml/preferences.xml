@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="알람 설정">
+
+        <ListPreference
+            app:defaultValue="1"
+            app:entries="@array/alarmMethod"
+            app:entryValues="@array/alarmMethodValues"
+            app:key="@string/alarm_method_key"
+            app:negativeButtonText="@null"
+            app:positiveButtonText="@null"
+            app:title="알람 방식" />
+
+        <ListPreference
+            app:defaultValue="1"
+            app:entries="@array/alarmCondition"
+            app:entryValues="@array/alarmConditionValues"
+            app:key="@string/alarm_condition_key"
+            app:negativeButtonText="@null"
+            app:positiveButtonText="@null"
+            app:title="기본 하차 알람 조건" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
