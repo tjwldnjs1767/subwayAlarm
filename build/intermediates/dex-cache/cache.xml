@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\floatingsearchview-master\sample\libs\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\floatingsearchview-master\sample\build\intermediates\pre-dexed\debug\gson-2.4_ac51d474059fcefb1e32405d9fd4c73226adddd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\floatingsearchview-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6323de9ba76ce8252b30fab4ffc3df90ba5c0d0e">
+        <dex dex="D:\floatingsearchview-master\sample\build\intermediates\pre-dexed\debug\classes_17e8b4e8ae8e93343feb5184e0763d5033768ca1.jar" />
+    </item>
+
+</items>
