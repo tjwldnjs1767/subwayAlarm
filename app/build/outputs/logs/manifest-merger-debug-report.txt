@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:6:22-66
+application
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [SubwayAlarm:SlideBtn:unspecified] D:\android\SubwayAlarm\SlideBtn\build\intermediates\bundles\default\AndroidManifest.xml:11:5-17:19
+MERGED from [SubwayAlarm:SearchInfoBySubwayName:unspecified] D:\android\SubwayAlarm\SearchInfoBySubwayName\build\intermediates\bundles\default\AndroidManifest.xml:13:5-19:19
+MERGED from [com.android.support:design:23.2.1] C:\Users\dsm2015\.android\build-cache\618fc9bdc473d33459758ac0e452122b2bd39c48\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\13cb6edf9c932262a030a3c745ce0cd95f1a18f9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:preference-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\6f40abfd38203f172e1dcf19af9c65f616564691\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\ee48e779bdd80560a7ccc4e54afb3f3f6b1047c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\dsm2015\.android\build-cache\ccefae83efe2f07f9a46bf3b527e02026771dbad\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\dsm2015\.android\build-cache\c1f6a0a228fbd091f69f4a09651e482a70202f38\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\dsm2015\.android\build-cache\d7ea9057e8387ca00d8e6d1135b2ac1082a23307\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dsm2015\.android\build-cache\448d142a33ea4610cbec78d48794e620fe021988\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:13:9-40
+activity#subway.subwayalarm.activity.LockScreenActivity
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:14:9-18:52
+	android:screenOrientation
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:18:13-49
+	android:excludeFromRecents
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:16:13-46
+	android:launchMode
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:15:13-56
+activity#subway.subwayalarm.activity.LoadingActivity
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:20:13-53
+activity#subway.subwayalarm.activity.MainActivity
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:22:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:26:27-74
+service#subway.subwayalarm.service.LockScreenService
+ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml:30:18-59
+uses-sdk
+INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [SubwayAlarm:SlideBtn:unspecified] D:\android\SubwayAlarm\SlideBtn\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [SubwayAlarm:SearchInfoBySubwayName:unspecified] D:\android\SubwayAlarm\SearchInfoBySubwayName\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.2.1] C:\Users\dsm2015\.android\build-cache\618fc9bdc473d33459758ac0e452122b2bd39c48\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\13cb6edf9c932262a030a3c745ce0cd95f1a18f9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\6f40abfd38203f172e1dcf19af9c65f616564691\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\ee48e779bdd80560a7ccc4e54afb3f3f6b1047c0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\dsm2015\.android\build-cache\ccefae83efe2f07f9a46bf3b527e02026771dbad\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\dsm2015\.android\build-cache\c1f6a0a228fbd091f69f4a09651e482a70202f38\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\716dda6637db989736e49e6d2bfc5c332d82667b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\dsm2015\.android\build-cache\d7ea9057e8387ca00d8e6d1135b2ac1082a23307\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dsm2015\.android\build-cache\448d142a33ea4610cbec78d48794e620fe021988\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\dsm2015\.android\build-cache\ee48e779bdd80560a7ccc4e54afb3f3f6b1047c0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\SubwayAlarm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [SubwayAlarm:SearchInfoBySubwayName:unspecified] D:\android\SubwayAlarm\SearchInfoBySubwayName\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [SubwayAlarm:SearchInfoBySubwayName:unspecified] D:\android\SubwayAlarm\SearchInfoBySubwayName\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64

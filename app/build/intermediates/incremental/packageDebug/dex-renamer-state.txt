@@ -1,0 +1,7 @@
+#Thu Apr 27 12:11:15 KST 2017
+base.0=D\:\\android\\SubwayAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_600b35fe966faf8924feb79d8f685fad98bf886f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android\\SubwayAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5f8448a5ffb1302c65f3dd330ff47bf3f3ffb28b\\classes.dex
+base.1=D\:\\android\\SubwayAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5f8448a5ffb1302c65f3dd330ff47bf3f3ffb28b
+file.0=D\:\\android\\SubwayAlarm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_600b35fe966faf8924feb79d8f685fad98bf886f\\classes.dex
